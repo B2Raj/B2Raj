@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning full stack web development 
 - 📫 you can contact me here !
 - 😄 Pronouns: he
-- ⚡ Fun fact: if yiu are coder, you must have to be a gamer, if not then you can't be a real Coder.
+- ⚡ Fun fact: if you are Coder, you must have to be a Gamer, if not then you can't be a real Coder.
 
 <!---
 B2Raj/B2Raj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
