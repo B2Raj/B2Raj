@@ -1,8 +1,6 @@
 - 👋 Hii, Bittu This side
 - 👀 web developer with programming alongside 
-- 🌱 I’m currently learning full stack web development 
-- 📫 you can contact me here !
-- 😄 Pronouns: he
+- 🌱 I’m currently learning full stack web development
 - ⚡ Fun fact: if you are Coder, you must have to be a Gamer, if not then you can't be a real Coder.
 
 <!---
